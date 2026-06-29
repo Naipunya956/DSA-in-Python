@@ -1,1 +1,25 @@
-print("Hello world")
+python-dsa/
+│
+├── README.md
+├── .gitignore
+│
+├── Basics/
+│   ├── hello.py
+│   ├── variables.py
+│   └── loops.py
+│
+├── Arrays/
+│
+├── Strings/
+│
+├── LinkedLists/
+│
+├── Stacks/
+│
+├── Queues/
+│
+├── Trees/
+│
+├── Graphs/
+│
+└── LeetCode/
